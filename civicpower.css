@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+}
+h1 {
+  background-color: rgb(246, 207, 207);
+  color: black;
+  text-align: center;
+  margin: 0 0 1em 0;
+  padding: .5em .5em;
+  font-size: 5vw;
+  line-height: 1.8em;
+}
+.data {
+  margin: .8em;
+  padding: 0;
+  border: 1px solid rgb(210, 89, 89);
+  background-color: #fff;
+  font-size: 80%;
+}
+.data h2 {
+  font-size: 120%;
+  background-color: rgb(210, 89, 89);
+  margin: 0 0 0 0;
+  padding: .2em;
+  color: white;
+}
+.data div {
+  white-space: pre-wrap;
+  padding: .4em;
+}
+a {
+  color: gray !important;
+}
+
+input[type=text] {
+  width: 80vw;
+  font-size: 110%;
+  padding: .5em .3em;
+  margin: .8em;
+}
+#filtered {
+  margin: 0 0 .8em 1.6em;
+  font-size: 80%;
+}
+#main {
+  margin: 0 .8em;
+}
+.list h2 {
+  font-size: 90%;
+  margin: 0;
+  padding: 0;
+}
+.list div {
+  white-space: pre-wrap;
+  font-size: 70%;
+  color: gray;
+  margin-left: 1em;
+  margin-bottom: 1em;
+}
+a {
+  color: gray !important;
+}
+#main a {
+  color: black !important;
+  text-decoration: none !important;
+}
+
+.reference {
+  margin: .8em;
+}
+
+.credit {
+  margin: .8em;
+}
